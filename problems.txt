@@ -2,3 +2,4 @@ Error creating Mysql table for requests and issues:
 
 "ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL AUTO_INCREMENT PRIMARY INT(15), create_date NOT NULL DATE, title NOT NU' at line 1"
 
+Because I have been unable to fix this error, and I don't know how to work around it, I am completely stuck. I am only able to make tables without a primary key which is both a requirement of the project, and a requirement for the foreign key constraints. I'm not really sure how to make crud functions without a database to write to, and the whole project lacks basic functionality without a database. I'm going to continue to work on this as best I can.
