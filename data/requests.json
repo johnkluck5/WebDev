@@ -1,10 +1,25 @@
-[
-  {
-
-
-
-  }
-
+{"requests":[
+	{
+		"recordid":"000045",
+		"userid":"00003",
+		"create_date":"7/27/2016",
+		"title":"Tacos",
+		"customer_name": "Janet",
+		"assigned_user": "00005",
+		"status": "Open",
+		"priority":"Low",
+		"description":"Help",
+		"type":"Request",
+		"issue_start":"null",
+		"issue_end":"null",
+		"issue_type":"null",
+		"request_due_date":"7/27/2016",
+		"request_implement_date":"7/28/2016",
+		"completion_date":"null",
+		"outcome":"null",
+		"outcome_comment":"null"
+	}
+]}
 
 
 
